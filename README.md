@@ -15,18 +15,25 @@
 <a href="https://github.com/smartnova/19-allhands/projects/9"><img src="ほそ.png" width="100"></a>
 <a href="https://github.com/smartnova/19-allhands/projects/9"><img src="ほそ.png" width="100"></a>
 
-|＼|<span width="10%">月</span>|火|水|木|金|
+|＼|<span width="100px">月</span>|火|水|木|金|
 |---|---|---|---|---|---|
 |1,2限||||||
 
 <table border="1">
   <tr>
-    <th width="10%">＼</th>
-    <th width="10%">月</th>
-    <th>火</th>
-    <th>水</th>
-    <th>木</th>
-    <th>金</th>
+    <th width="100px">＼</th>
+    <th width="100px">月</th>
+    <th width="100px">火</th>
+    <th width="100px">水</th>
+    <th width="100px">木</th>
+    <th width="100px">金</th>
   </tr>
-  
+  <tr>
+    <th width="100px">＼</th>
+    <th width="100px">月</th>
+    <th width="100px">火</th>
+    <th width="100px">水</th>
+    <th width="100px">木</th>
+    <th width="100px">金</th>
+  </tr>  
 </table>
