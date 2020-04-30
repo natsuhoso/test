@@ -22,6 +22,7 @@
 <table border="1" width="100%">
   <tr>
     <th>＼</th>
-    <th>月</th?
+    <th>月</th>
+  </tr>
   
 </table>
