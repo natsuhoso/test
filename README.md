@@ -20,6 +20,7 @@
 |1,2限|あああああああああああああああああ|||||
 
 <table border="1">
+  <thead>
   <tr>
     <th width="100px">＼</th>
     <th width="100px">月</th>
@@ -28,6 +29,8 @@
     <th width="100px">木</th>
     <th width="100px">金</th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
     <th width="100px">＼</th>
     <th width="100px">月</th>
@@ -36,4 +39,5 @@
     <th width="100px">木</th>
     <th width="100px">金</th>
   </tr>  
+  </tbody>
 </table>
