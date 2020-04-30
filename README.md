@@ -23,6 +23,10 @@
   <tr>
     <th>＼</th>
     <th>月</th>
+    <th>火</th>
+    <th>水</th>
+    <th>木</th>
+    <th>金</th>
   </tr>
   
 </table>
