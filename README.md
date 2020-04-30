@@ -21,7 +21,7 @@
 
 <table border="1" width="100%">
   <tr>
-    <th>＼</th>
+    <th width="10%">＼</th>
     <th width="10%">月</th>
     <th>火</th>
     <th>水</th>
