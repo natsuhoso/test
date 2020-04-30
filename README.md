@@ -49,3 +49,34 @@
   </tr> 
   </tbody>
 </table>
+
+<table border="1">
+  <thead>
+  <tr>
+    <th width="15%">＼</th>
+    <th width="15%">月</th>
+    <th width="15%">火</th>
+    <th width="15%">水</th>
+    <th width="15%">木</th>
+    <th width="15%">金</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <th width="15%">1,2限</th>
+    <th width="15%"></th>
+    <th width="15%"></th>
+    <th width="15%"></th>
+    <th width="15%"></th>
+    <th width="15%"></th>
+  </tr>  
+  <tr>
+    <th width="15%">3,4限</th>
+    <th width="15%"></th>
+    <th width="15%"></th>
+    <th width="15%"></th>
+    <th width="15%"></th>
+    <th width="15%"></th>
+  </tr> 
+  </tbody>
+</table>
