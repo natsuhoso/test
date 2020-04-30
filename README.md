@@ -64,7 +64,7 @@
   <tbody>
   <tr>
     <th width="10%">1,2限</th>
-    <th width="18%"></th>
+    <th width="18%">ああああああああああああああああああああああああああああああああああ</th>
     <th width="18%"></th>
     <th width="18%"></th>
     <th width="18%"></th>
