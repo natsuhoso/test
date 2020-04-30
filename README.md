@@ -40,7 +40,7 @@
     <th width="100px"></th>
   </tr>  
   <tr>
-    <th width="100px">1,2限</th>
+    <th width="100px">3,4限</th>
     <th width="100px"></th>
     <th width="100px"></th>
     <th width="100px"></th>
