@@ -21,8 +21,8 @@
 
 <table border="1" width="100%">
   <tr>
-    <th width="20%">＼</th>
-    <th width="20%">月</th>
+    <th width="100%">＼</th>
+    <th width="100%">月</th>
     <th>火</th>
     <th>水</th>
     <th>木</th>
