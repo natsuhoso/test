@@ -53,30 +53,30 @@
 <table border="1">
   <thead>
   <tr>
-    <th width="20%">＼</th>
-    <th width="20%">月</th>
-    <th width="20%">火</th>
-    <th width="20%">水</th>
-    <th width="20%">木</th>
-    <th width="20%">金</th>
+    <th width="10%">＼</th>
+    <th width="18%">月</th>
+    <th width="18%">火</th>
+    <th width="18%">水</th>
+    <th width="18%">木</th>
+    <th width="18%">金</th>
   </tr>
   </thead>
   <tbody>
   <tr>
-    <th width="20%">1,2限</th>
-    <th width="20%"></th>
-    <th width="20%"></th>
-    <th width="20%"></th>
-    <th width="20%"></th>
-    <th width="20%"></th>
+    <th width="10%">1,2限</th>
+    <th width="18%"></th>
+    <th width="18%"></th>
+    <th width="18%"></th>
+    <th width="18%"></th>
+    <th width="18%"></th>
   </tr>  
   <tr>
-    <th width="20%">3,4限</th>
-    <th width="20%"></th>
-    <th width="20%"></th>
-    <th width="20%"></th>
-    <th width="20%"></th>
-    <th width="20%"></th>
+    <th width="10%">3,4限</th>
+    <th width="18%"></th>
+    <th width="18%"></th>
+    <th width="18%"></th>
+    <th width="18%"></th>
+    <th width="18%"></th>
   </tr> 
   </tbody>
 </table>
