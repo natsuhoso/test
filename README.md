@@ -19,7 +19,7 @@
 |---|---|---|---|---|---|
 |1,2限||||||
 
-<table border="1" width="100%">
+<table border="1">
   <tr>
     <th width="100px">＼</th>
     <th width="100px">月</th>
